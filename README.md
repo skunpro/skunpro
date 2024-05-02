@@ -2,7 +2,7 @@
 <br>
 <br>
 <a href="https://skun.pro">
-    <img src="[(https://img.shields.io/badge/-tekken.dev-231b1a?style=for-the-badge&logo=aboutdotme&logoColor=f5c37c](https://img.shields.io/badge/-skun.pro-231b1a?style=for-the-badge&logo=aboutdotme&logoColor=f5c37c)]"/>
+    <img src="[https://img.shields.io/badge/-tekken.dev-231b1a?style=for-the-badge&logo=aboutdotme&logoColor=f5c37c](https://img.shields.io/badge/-skun.pro-231b1a?style=for-the-badge&logo=aboutdotme&logoColor=f5c37c]"/>
 </a>
 <br>
 <br>
