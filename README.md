@@ -21,3 +21,5 @@
 [![Discord](https://img.shields.io/badge/-@skunpro%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/skun)
 [![Cfx.re](https://img.shields.io/badge/-Cfx.re%20%28Click%29-F17F34?style=for-the-badge&logo=fivem&logoColor=white)](https://forum.cfx.re/u/skun4u)
 [![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/avenaszabanda/)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1250435799305162762)](https://discord.com/users/1250435799305162762)
