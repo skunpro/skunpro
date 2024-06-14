@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
 <br>
 <br>
-[![Discord](https://img.shields.io/badge/-@skunpro%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/skun)
+[![Discord](https://img.shields.io/badge/-@codem%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/codem)
 [![Cfx.re](https://img.shields.io/badge/-Cfx.re%20%28Click%29-F17F34?style=for-the-badge&logo=fivem&logoColor=white)](https://forum.cfx.re/u/skun4u)
 [![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/avenaszabanda/)
 
