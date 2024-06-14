@@ -23,3 +23,4 @@
 [![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/avenaszabanda/)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1153401658638880928)](https://discord.com/users/1153401658638880928)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1153401658638880928?animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
