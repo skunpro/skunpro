@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
 <br>
 <br>
-[![Discord](https://img.shields.io/badge/-@404devs%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/404devs)
-[![Cfx.re](https://img.shields.io/badge/-Cfx.re%20%28Click%29-F17F34?style=for-the-badge&logo=fivem&logoColor=white)](https://forum.cfx.re/u/skun4u)
+[![Discord](https://img.shields.io/badge/-@discord%20%28Click%29-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/skunpro)
+[![Cfx.re](https://img.shields.io/badge/-Cfx.re%20%28Click%29-F17F34?style=for-the-badge&logo=fivem&logoColor=white)](https://forum.cfx.re/u/notaskun)
 [![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/avenaszabanda/)
 [![WakaTime](https://img.shields.io/badge/-Wakatime%20%28Click%29-4CC0E4?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@skun)
 
