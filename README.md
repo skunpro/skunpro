@@ -23,7 +23,5 @@
 [![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/avenaszabanda/)
 [![WakaTime](https://img.shields.io/badge/-Wakatime%20%28Click%29-4CC0E4?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@skun)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1153401658638880928)](https://discord.com/users/1153401658638880928)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=skunpro&icon=0&color=2)](https://visitcount.itsvg.in)
