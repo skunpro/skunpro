@@ -25,7 +25,8 @@ No unnecessary dependencies. No bloated frameworks. Just practical solutions tha
 
 ### Currently working on
 
-- [GrimGG](https://grimgg.eu) – scripting, UI, server-side features
+- [CS2 Polska](https://counterstrike2.pl)
+- [WiseRP](https://wiseroleplay.pl)
 
 <p align="center">
   <em>Don't ask <strong>if it can be done</strong>, ask <strong>how long it'll take</strong>. ~ skun
