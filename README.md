@@ -25,8 +25,8 @@ No unnecessary dependencies. No bloated frameworks. Just practical solutions tha
 
 ### Currently working on
 
-- [CS2 Polska](https://counterstrike2.pl)
-- [WiseRP](https://wiseroleplay.pl)
+- [CS2 Polska](https://counterstrike2.pl) - web development, API integration, server-side features
+- [WiseRP](https://wiseroleplay.pl) - scripting, NUI interfaces, web shop integration, server-side features
 
 <p align="center">
   <em>Don't ask <strong>if it can be done</strong>, ask <strong>how long it'll take</strong>. ~ skun
