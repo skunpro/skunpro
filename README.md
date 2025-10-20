@@ -2,7 +2,7 @@
 
 **Specialized in Lua for FiveM · NUI interfaces in React**
 
-I'm `skun` — a developer building scripts for FiveM servers, mainly in Lua.
+I'm `skun` - a developer building scripts for FiveM servers, mainly in Lua.
 
 Since 2019, I’ve been working with both **[ESX](https://github.com/esx-framework)** & **[OX Core](https://github.com/overextended)**, writing scripts and features that integrate directly with player states, inventory systems, job logic, and UI callbacks. I focus on clean and functional code — no overcomplication, just results.
 
