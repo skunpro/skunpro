@@ -23,10 +23,15 @@ No unnecessary dependencies. No bloated frameworks. Just practical solutions tha
 <a href="https://git-scm.com/"><img alt="Git" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 </div>
 
+### My Projects
+
+- [CS2 Polska](https://counterstrike2.pl) - web & API development (2025 - Now)
+
 ### Currently working on
 
-- [CS2 Polska](https://counterstrike2.pl) - web development, API integration, server-side features
-- [WiseRP](https://wiseroleplay.pl) - scripting, NUI interfaces, web shop integration, server-side features
+- [GrimGG](https://grimgg.eu) - lua scripting, NUI interfaces (2024 - Now)
+- [WavesRP](https://wavesroleplay.pl) - lua scripting, NUI interfaces (2025 - Now)
+- [WiseRP](https://wiseroleplay.pl) - web shop integration (2025 - Now)
 
 <p align="center">
   <em>Don't ask <strong>if it can be done</strong>, ask <strong>how long it'll take</strong>. ~ skun
