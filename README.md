@@ -25,13 +25,11 @@ No unnecessary dependencies. No bloated frameworks. Just practical solutions tha
 
 ### My Projects
 
-- [CS2 Polska](https://counterstrike2.pl) - web & API development (2025 - Now)
+- [CS2 Polska](https://counterstrike2.pl) - (2025 - Now)
 
 ### Currently working on
 
-- [GrimGG](https://grimgg.eu) - lua scripting, NUI interfaces (2024 - Now)
-- [WavesRP](https://wavesroleplay.pl) - lua scripting, NUI interfaces (2025 - Now)
-- [WiseRP](https://wiseroleplay.pl) - web shop integration (2025 - Now)
+- [Z-Scripts](https://z-scripts.com/) (2026 - Now)
 
 <p align="center">
   <em>Don't ask <strong>if it can be done</strong>, ask <strong>how long it'll take</strong>. ~ skun
