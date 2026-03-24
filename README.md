@@ -4,9 +4,9 @@
 
 I'm `skun` - a developer building scripts for FiveM servers, mainly in Lua.
 
-Since 2019, I’ve been working with both **[ESX](https://github.com/esx-framework)** & **[OX Core](https://github.com/overextended)**, writing scripts and features that integrate directly with player states, inventory systems, job logic, and UI callbacks. I focus on clean and functional code — no overcomplication, just results.
+Since 2019, I’ve been working with both **[ESX](https://github.com/esx-framework)** & **[OX Core](https://github.com/overextended)**, writing scripts and features that integrate directly with player states, inventory systems, job logic, and UI callbacks. I focus on clean and functional code - no overcomplication, just results.
 
-On the frontend side, I enjoy working with **React** (and sometimes Vue) to create **NUI-based interfaces** like menus, modals and HUDs — all fast, responsive, and minimal.
+On the frontend side, I enjoy working with **React** (and sometimes Vue) to create **NUI-based interfaces** like menus, modals and HUDs - all fast, responsive, and minimal.
 
 No unnecessary dependencies. No bloated frameworks. Just practical solutions that work well in production.
 
