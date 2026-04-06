@@ -1,37 +1,21 @@
-# 👋 skun
+# skun
 
-**Specialized in Lua for FiveM · NUI interfaces in React**
+Next.js / React developer focused on integrations, performance, and motion.
 
-I'm `skun` - a developer building scripts for FiveM servers, mainly in Lua.
+I build fast, reliable interfaces with Next.js, React, and TypeScript.
 
-Since 2019, I’ve been working with both **[ESX](https://github.com/esx-framework)** & **[OX Core](https://github.com/overextended)**, writing scripts and features that integrate directly with player states, inventory systems, job logic, and UI callbacks. I focus on clean and functional code - no overcomplication, just results.
+Most of my work is integration-heavy: authentication, API connections, proxy layers, third-party services, and analytics (GA4). I care about details that compound: load times, SEO foundations, and accessible UI patterns.
 
-On the frontend side, I enjoy working with **React** (and sometimes Vue) to create **NUI-based interfaces** like menus, modals and HUDs - all fast, responsive, and minimal.
+I collaborate with:
+- BeLaunch: https://belaunch.net/en
+- Z Scripts: https://z-scripts.com/
 
-No unnecessary dependencies. No bloated frameworks. Just practical solutions that work well in production.
+I don’t accept direct private client work. Engagements go through those teams.
 
-### Tech stack
+Projects:
+- CS2 Polska: https://counterstrike2.pl
+- React Forge (MCP server for Zed): https://github.com/skunpro/react-forge
 
-<div style="margin: 10px; height: 50px;">
-<a href="https://www.lua.org/"><img alt="Lua" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-<a href="https://react.dev/"><img alt="React" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
-<a href="https://vuejs.org/"><img alt="Vue" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a>
-<a href="https://html.spec.whatwg.org/"><img alt="HTML5" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
-<a href="https://www.w3.org/Style/CSS/"><img alt="CSS3" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
-<a href="https://git-scm.com/"><img alt="Git" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-</div>
-
-### My Projects
-
-- [CS2 Polska](https://counterstrike2.pl) - (2025 - Now)
-
-### Currently working on
-
-- [Z-Scripts](https://z-scripts.com/) (2026 - Now)
-- [BeLaunch](https://belaunch.net/pl) (2026 - Now)
-
-<p align="center">
-  <em>Don't ask <strong>if it can be done</strong>, ask <strong>how long it'll take</strong>. ~ skun
-</p>
+Links:
+- Website: https://skun.pro
+- GitHub: https://github.com/skunpro
