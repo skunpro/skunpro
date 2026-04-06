@@ -1,5 +1,5 @@
-<div align="center">
-  <h1>skun</h1>
+<div align="left">
+  <h1>skun 👋</h1>
   <p>Next.js / React developer · Integrations · Performance · Motion</p>
   <p>
     <a href="https://skun.pro">Website</a>
