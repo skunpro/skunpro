@@ -19,6 +19,8 @@
 - React Forge (MCP server for Zed): https://github.com/skunpro/react-forge
   - Install: Zed → Extensions → React Forge
   - Enable: Agent Panel → Settings → Context Servers
+- Repo Health (Rust TUI/CLI): https://github.com/skunpro/repo-health
+  - Download: https://github.com/skunpro/repo-health/releases/latest
 
 ## Work
 
