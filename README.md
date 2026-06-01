@@ -1,46 +1,29 @@
-<div align="left">
-  <h1>skun 👋</h1>
-  <p>Next.js / React developer · Integrations · Performance · Motion</p>
+<div align="center">
   <p>
-    <a href="https://skun.pro">Website</a>
-    ·
-    <a href="https://github.com/skunpro">GitHub</a>
+    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=560&lines=Next.js+%2F+React+Developer;Integrations+%26+Performance;SEO-first+delivery+%2B+Motion;Open+to+private+client+work" />
+  </p>
+  <p>
+    <a href="https://skun.pro" title="Website"><img alt="Website" width="26" height="26" src="https://skun.pro/assets/img/icon.png" /></a>
+    &nbsp;&nbsp;
+    <a href="https://z-scripts.com/" title="Z Scripts"><img alt="Z Scripts" width="26" height="26" src="https://skun.pro/projects/zscripts/logo.svg" /></a>
   </p>
 </div>
 
+## About
+
+- Developer of Z Scripts (FiveM scripts shop).
+- Shipping fast, SEO-ready websites and web apps with clean UI + reliable integrations.
+- Open to private client work.
+
 ## Focus
 
-- Next.js + React + TypeScript
-- Auth, vendor APIs, proxy layers, analytics (GA4)
-- Fast load times, SEO foundations, accessible UI patterns
-
-## Tooling
-
-- React Forge (MCP server for Zed): https://github.com/skunpro/react-forge
-  - Install: Zed → Extensions → React Forge
-  - Enable: Agent Panel → Settings → Context Servers
-- Repo Health (Rust TUI/CLI): https://github.com/skunpro/repo-health
-  - Download: https://github.com/skunpro/repo-health/releases/latest
-
-## Work
-
-- Collaborations
-  - BeLaunch: https://belaunch.net/en
-  - Z Scripts: https://z-scripts.com/
-- No direct private client work (engagements go through those teams)
+- Integrations: auth, vendor APIs, proxy layers, analytics (GA4)
+- Performance + SEO foundations (Core Web Vitals mindset)
+- Frontend craft: accessibility, design systems, motion (Framer Motion)
+- Also: Rust tooling, Python utilities, Lua scripting
 
 ## Stack
 
-<div style="margin: 10px; height: 50px;">
-<a href="https://nextjs.org/"><img alt="Next.js" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
-<a href="https://react.dev/"><img alt="React" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-<a href="https://www.w3.org/Style/CSS/"><img alt="CSS3" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
-<a href="https://html.spec.whatwg.org/"><img alt="HTML5" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
-<a href="https://git-scm.com/"><img alt="Git" width="30px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<div align="center">
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,rust,lua,postgres,docker,git&perline=6" />
 </div>
-
-<p align="center">
-  <em>Don't ask <strong>if it can be done</strong>, ask <strong>how long it'll take</strong>. ~ skun</em>
-</p>
