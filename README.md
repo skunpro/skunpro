@@ -25,5 +25,5 @@
 ## Stack
 
 <div align="center">
-  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,rust,lua,postgres,docker,git&perline=6" />
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,rust,lua,postgres,docker,git" />
 </div>
