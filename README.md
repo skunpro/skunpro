@@ -17,12 +17,18 @@
 <br />
 <br />
 
-<a><img src="./assets/focus.svg" width="100%" alt="What I do: integrations, performance and SEO, frontend craft and security." /></a>
+<picture>
+  <source srcset="./assets/focus.svg" />
+  <img src="./assets/focus.svg" width="100%" alt="What I do: integrations, performance and SEO, frontend craft and security." />
+</picture>
 
 <br />
 <br />
 
-<a><img src="./assets/stack.svg" width="100%" alt="Stack: Next.js, React, TypeScript, Tailwind CSS, Motion, Figma, Node.js, PostgreSQL, Python, Rust, Lua, Docker, Git, Vercel, discord.py, GA4." /></a>
+<picture>
+  <source srcset="./assets/stack.svg" />
+  <img src="./assets/stack.svg" width="100%" alt="Stack: Next.js, React, TypeScript, Tailwind CSS, Motion, Figma, Node.js, PostgreSQL, Python, Rust, Lua, Docker, Git, Vercel, discord.py, GA4." />
+</picture>
 
 <br />
 <br />
