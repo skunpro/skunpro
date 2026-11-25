@@ -7,7 +7,7 @@
 
 <a href="https://skun.pro"><img src="./assets/link-website.svg" height="44" alt="skun.pro" /></a>&nbsp;
 <a href="https://formetry.dev"><img src="./assets/link-formetry.svg" height="44" alt="formetry.dev" /></a>&nbsp;
-<a href="https://discord.gg/cspolska"><img src="./assets/link-discord.svg" height="44" alt="CS2 Polska on Discord" /></a>
+<a href="https://counterstrike2.pl"><img src="./assets/link-cs2polska.svg" height="44" alt="counterstrike2.pl" /></a>
 
 <br />
 <br />
